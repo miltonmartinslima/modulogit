@@ -15,3 +15,4 @@ git log
 
 Voltar para etapa desejada do desenvolvimento
 git reset --hard hash
+git reset --soft hash
