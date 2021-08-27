@@ -13,3 +13,5 @@ git commit -m "mensagem"
 Ver situação do Repositório
 git log
 
+Voltar para etapa desejada do desenvolvimento
+git reset --hard hash
