@@ -16,3 +16,9 @@ git log
 Voltar para etapa desejada do desenvolvimento
 git reset --hard hash
 git reset --soft hash
+
+Movimentar entre Branch
+git branch <nome branch>
+
+Mudar de Branch
+git checkout <nome branch>
