@@ -92,3 +92,4 @@ git revert [--[no-]edit] [-n] [-m parent-number] [-s] [-S[<keyid>]] <commit>
 
 
 mod para o push
+           editei no GitHub
