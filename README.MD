@@ -22,3 +22,16 @@ git branch <nome branch>
 
 Mudar de Branch
 git checkout <nome branch>
+
+Ver diferenças em arquivo
+git diff 
+
+Ver quais arquivos têm diferenças
+git diff --name-only
+
+Ver diferenças em determinado arquivo
+git diff --index.html
+
+Voltar para o conteúdo anterior
+git checkout HEAD --<nome arquivo>
+
